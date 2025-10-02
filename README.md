@@ -4,7 +4,7 @@ I am a cyber security tech
 
 ## Projects
 
-[Procject 10](https://drive.google.com/drive/folders/1HqoB4CUKmJwoZmYo3GMQ2RmbuAnq2lrq?usp=drive_link)
+[TripleTen CyberSecurity Projects](https://drive.google.com/drive/folders/19AOUYan03hlOYGimiaupwJk07CFbGhxv?usp=sharing)
 
 <!--
 **Gr8one1876/Gr8one1876** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
