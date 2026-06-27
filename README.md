@@ -25,11 +25,11 @@ I'm actively targeting Detection Engineer and SOC Analyst Tier 2 roles.
 
 | Project | What it covers |
 |---|---|
-| [Complex Attack IR Report (AWS)][(link](https://github.com/Gr8one1876/project-14-complex-attack-ir-report)) | Full investigation of a cloud-based attack — detection, analysis, and remediation |
-| [Major Incident Investigation](link) | End-to-end IR report from alert triage to resolution |
-| [MegaQuagga Pentest Report](link) | Full pentest cycle: assessment → exploitation → remediation |
-| [Xibalba Threat Model](link) | Structured threat modeling using MITRE ATT&CK |
-| [Capybara Unlimited IR Plan](link) | Incident response plan built for a real-world scenario |
+| [Complex Attack IR Report (AWS)](https://github.com/Gr8one1876/project-14-complex-attack-ir-report) | Full investigation of a cloud-based attack — detection, analysis, and remediation |
+| [Major Incident Investigation](https://github.com/Gr8one1876/soc-incident-investigation) | End-to-end IR report from alert triage to resolution |
+| [MegaQuagga Pentest Report](https://github.com/Gr8one1876/megaquagga-penetration-test) | Full pentest cycle: assessment → exploitation → remediation |
+| [Xibalba Threat Model](https://github.com/Gr8one1876/threat-model-mitre-attck) | Structured threat modeling using MITRE ATT&CK |
+| [Capybara Unlimited IR Plan](https://github.com/Gr8one1876/incident-response-plan) | Incident response plan built for a real-world scenario |
 
 ---
 
