@@ -25,7 +25,7 @@ I'm actively targeting Detection Engineer and SOC Analyst Tier 2 roles.
 
 | Project | What it covers |
 |---|---|
-| [Complex Attack IR Report (AWS)](link) | Full investigation of a cloud-based attack — detection, analysis, and remediation |
+| [Complex Attack IR Report (AWS)][(link](https://github.com/Gr8one1876/project-14-complex-attack-ir-report)) | Full investigation of a cloud-based attack — detection, analysis, and remediation |
 | [Major Incident Investigation](link) | End-to-end IR report from alert triage to resolution |
 | [MegaQuagga Pentest Report](link) | Full pentest cycle: assessment → exploitation → remediation |
 | [Xibalba Threat Model](link) | Structured threat modeling using MITRE ATT&CK |
