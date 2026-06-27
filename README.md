@@ -34,5 +34,5 @@ I'm actively targeting Detection Engineer and SOC Analyst Tier 2 roles.
 ---
 
 ## Connect
-- LinkedIn: sheldon-scott-68aaa82a8
+- LinkedIn: [sheldon-scott-68aaa82a8](https://www.linkedin.com/in/sheldon-scott-68aaa82a8/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BV2Q6iorjRh2TMNPHcgRWkQ%3D%3D)
 - Email: sheldonscott90210@gmail.com
